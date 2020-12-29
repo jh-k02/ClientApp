@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_Cortex"
+        android:title="Cortex Control Mode" />
+
+    <item
+        android:id="@+id/menu_Raspberry"
+        android:title="Raspberry Control Mode" />
+
+    <item
+        android:id="@+id/menu_Camera"
+        android:title="Camera View Mode" />
+
+</menu>
